@@ -57,7 +57,7 @@ The system can be extended for:
     ->AI-powered virtual trainers
 
 
-##Outpu Images
+##Output Images
 
 
 <img width="522" height="609" alt="output_img" src="https://github.com/user-attachments/assets/ca3b042a-cedf-473e-887f-6f2751108aff" />
