@@ -57,6 +57,4 @@ The system can be extended for:
  ->AI-powered virtual trainers
 
 
-##👨‍💻Author 
-Mohammed Faizullah Shareef
-Artificial Intelligence & Machine Learning Engineer
+
