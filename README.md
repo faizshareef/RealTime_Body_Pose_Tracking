@@ -17,6 +17,7 @@ The system can be extended for:
 
  ->Fitness monitoring
 
+
 ##🚀 Key Features
 
 🎥 Real-time webcam pose detection
@@ -31,6 +32,7 @@ The system can be extended for:
 
 🧠 Built using Google MediaPipe framework
 
+
 ##Tech Stack
 
   Python 3.10
@@ -40,6 +42,7 @@ The system can be extended for:
   MediaPipe
 
   NumPy
+
 
 ##📊 Applications
 
