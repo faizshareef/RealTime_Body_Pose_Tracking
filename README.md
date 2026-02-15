@@ -8,20 +8,20 @@ It detects 33 body landmarks from live webcam input and visualizes the human ske
 
 The system can be extended for:
 
-Exercise tracking
+ ->Exercise tracking
 
-Rep counting
+ ->Rep counting
 
-Posture correction
+ ->Posture correction
 
-Motion analysis
+ ->Motion analysis
 
-Fitness monitoring
+ ->Fitness monitoring
 
 🚀 Key Features
 
 🎥 Real-time webcam pose detection
-
+ 
 🧍 33 body landmarks tracking
 
 📐 Joint angle computation support
@@ -34,22 +34,22 @@ Fitness monitoring
 
 Tech Stack
 
-Python 3.10
+  Python 3.10
 
-OpenCV
+  OpenCV
 
-MediaPipe
+  MediaPipe
 
-NumPy
+  NumPy
 
 📊 Applications
 
-Fitness tracking systems
+ ->Fitness tracking systems
 
-Rehabilitation monitoring
+ ->Rehabilitation monitoring
 
-Sports performance analysis
+ ->Sports performance analysis
 
-Human motion analytics
+ ->Human motion analytics
 
 AI-powered virtual trainers
