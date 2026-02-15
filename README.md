@@ -20,17 +20,17 @@ The system can be extended for:
 
 ##🚀 Key Features
 
-🎥 1.Real-time webcam pose detection
+    1.Real-time webcam pose detection
  
-🧍 2.33 body landmarks tracking
+    2.33 body landmarks tracking
 
-📐 3.Joint angle computation support
+    3.Joint angle computation support
 
-🖥️ 4.Skeleton overlay visualization
+    4.Skeleton overlay visualization
 
-⚡ 5.Lightweight and runs on CPU (no GPU required)
+    5.Lightweight and runs on CPU (no GPU required)
 
-🧠 6.Built using Google MediaPipe framework
+    6.Built using Google MediaPipe framework
 
 
 ##Tech Stack
