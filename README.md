@@ -63,3 +63,4 @@ The system can be extended for:
 <img width="522" height="609" alt="output_img" src="https://github.com/user-attachments/assets/ca3b042a-cedf-473e-887f-6f2751108aff" />
 
 
+<img width="594" height="581" alt="Output_img2" src="https://github.com/user-attachments/assets/75c8cd89-75ed-4740-90b3-b7b1253c1a68" />
