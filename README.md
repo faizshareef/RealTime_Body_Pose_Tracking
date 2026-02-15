@@ -7,15 +7,15 @@ This project implements real-time human body pose tracking using MediaPipe and O
 
 The system can be extended for:
 
- ->Exercise tracking
+    ->Exercise tracking
 
- ->Rep counting
+    ->Rep counting
 
- ->Posture correction
+    ->Posture correction
 
- ->Motion analysis
+    ->Motion analysis
 
- ->Fitness monitoring
+    ->Fitness monitoring
 
 
 ##🚀 Key Features
@@ -35,26 +35,26 @@ The system can be extended for:
 
 ##Tech Stack
 
-  1.Python 3.10
+    1.Python 3.10
 
-  2.OpenCV
+    2.OpenCV
 
-  3.MediaPipe
+    3.MediaPipe
 
-  4.NumPy
+    4.NumPy
 
 
 ##📊 Applications
 
- ->Fitness tracking systems
+    ->Fitness tracking systems
 
- ->Rehabilitation monitoring
+    ->Rehabilitation monitoring
 
- ->Sports performance analysis
+    ->Sports performance analysis
 
- ->Human motion analytics
+    ->Human motion analytics
 
- ->AI-powered virtual trainers
+    ->AI-powered virtual trainers
 
 
 
