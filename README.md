@@ -1,7 +1,7 @@
 # RealTime_Body_Pose_Tracking
 Real-time human body pose tracking system using MediaPipe and OpenCV for skeletal landmark detection and motion analysis.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project implements real-time human body pose tracking using MediaPipe and OpenCV. It detects 33 body landmarks from live webcam input and visualizes the human skeletal structure dynamically.
 
@@ -18,7 +18,7 @@ The system can be extended for:
     ->Fitness monitoring
 
 
-🚀 Key Features
+## 🚀 Key Features
 
     1.Real-time webcam pose detection
  
@@ -33,7 +33,7 @@ The system can be extended for:
     6.Built using Google MediaPipe framework
 
 
-Tech Stack
+## Tech Stack
 
     1.Python 3.10
 
@@ -44,7 +44,7 @@ Tech Stack
     4.NumPy
 
 
-📊 Applications
+## 📊 Applications
 
     ->Fitness tracking systems
 
@@ -57,7 +57,7 @@ Tech Stack
     ->AI-powered virtual trainers
 
 
-#Output Images
+## Output Images
 
 
 <img width="522" height="609" alt="output_img" src="https://github.com/user-attachments/assets/ca3b042a-cedf-473e-887f-6f2751108aff" />
